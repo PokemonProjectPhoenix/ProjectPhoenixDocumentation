@@ -9,6 +9,11 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background-image: url('/img/triangulated-bg.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: 95%;
+  filter: saturate(90%);
 }
 
 @media screen and (max-width: 966px) {

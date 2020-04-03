@@ -1,28 +1,27 @@
 module.exports = {
   title: 'Pokemon Unity - Project Phoenix Documentation',
-  tagline: 'The tagline of my site',
   url: 'https://pokemon-unity-project-phoenix.onrender.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'PokemonProjectPhoenix', // Usually your GitHub org/user name.
+  projectName: 'projectphoenix', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Project Phoenix Documentation',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Project Phoenix Logo',
+        src: 'img/logo.png',
       },
       links: [
         {
-          to: 'docs/doc1',
+          to: 'docs/test/doc1',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/PokemonProjectPhoenix',
           label: 'GitHub',
           position: 'right',
         },
@@ -36,7 +35,7 @@ module.exports = {
           items: [
             {
               label: 'Style Guide',
-              to: 'docs/doc1',
+              to: 'docs/test/doc1',
             },
             {
               label: 'Second Doc',
@@ -48,12 +47,12 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Youtube?',
+              href: 'https://youtube.com',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/VuKcN8M',
             },
           ],
         },
@@ -66,11 +65,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://github.com/pokemonprojectphoenix',
             },
           ],
         },
