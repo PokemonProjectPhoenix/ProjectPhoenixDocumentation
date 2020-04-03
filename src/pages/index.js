@@ -67,7 +67,7 @@ function Home() {
           <h1 className="hero__title">
             <figure>
               <img
-                src="/static/img/project-phoenix-logo.png"
+                src="/img/project-phoenix-logo.png"
                 alt="The logo of Project Phoenix"
               />
             </figure>
