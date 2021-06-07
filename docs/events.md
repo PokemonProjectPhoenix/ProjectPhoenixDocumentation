@@ -14,6 +14,7 @@ It's also **easily expandable** as more blocks can be added into it without affe
 ## Table of Contents
 
 + Events
+    + Event structure and design choices
     + Trigger type and conditions
     + Adding/Removing Blocks
     + Block types
