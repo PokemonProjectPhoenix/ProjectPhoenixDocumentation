@@ -6,7 +6,7 @@ sidebar_label: Dialogue Block
 
 The **Dialogue Block** allows us to display a text message and control its behaviour (how much should we wait after the text finished and if we should await input after that).
 
-<center><img src="dialogueblock.png" /></center>
+<center><img src="/static/img/dialogueblock.png" /></center>
 
 The **Message** field supports Rich Text. There are also some codes that gets automatically parsed into other values:
 + **@p** becomes the _Player_ name.
