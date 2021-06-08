@@ -8,10 +8,21 @@ The **Dialogue Block** allows us to display a text message and control its behav
 
 <center><img src="/static/img/blocks/dialogueblock.png" /></center>
 
-The **Message** field supports Rich Text. There are also some codes that gets automatically parsed into other values, for example:
-+ **@p** becomes the _Player_ name.
-+ **@$** becomes the _cash_.
-
-*(For more informations about the messages and dialogue box, please refer to the [DialogueBox](dialogueevents) documentation.)*
-
-The **Pause** field determines how many seconds the game will wait *after* the text has finished displaying and the **Wait for input** field determines if the game should wait for input *after* the pause seconds elapsed.
+<br />
+<table>
+    <tr>
+        <td><b>Message</b></td><td> It determines the message to be displayed. This field supports rich text. There are also some <b>codes</b> that get automatically formatted into values, for example:
+        <ul>
+            <li><b>@p</b> becomes the <i>Player</i> name.</li>
+            <li><b>@$</b> becomes the <i>Cash</i>.</li>
+        </ul>
+        <i>(For more informations about the messages and dialogue box, please refer to the <a href="dialogueevents">DialogueBox</a> documentation.)</i>
+        </td>
+    </tr>
+    <tr>
+    <td><b>Pause</b></td><td>It determines for how many seconds the game will wait <i>after</i> the text has finished displaying.</td>
+    </tr>
+    <tr>
+    <td><b>Wait for input</b></td><td>It determines if the game should wait for input <i>after</i> the pause seconds elapsed.</td>
+    </tr>
+</table>

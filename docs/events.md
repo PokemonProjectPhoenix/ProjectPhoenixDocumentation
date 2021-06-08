@@ -1,6 +1,6 @@
 ---
 id: events
-title: UES - About UES and Events
+title: About UES and Events
 ---
 
 The **Unity Event System** (in short _UES_) is a system we developed that provides an Event System Similiar to _Enterbrain_'s *RPG Maker*, although still maintaining some key differences.
