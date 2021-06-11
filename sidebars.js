@@ -16,7 +16,7 @@ module.exports = {
                 dirName: 'blocktypes'
 
             }],
-        }],
+        }, 'conditions'],
         Design: ['designInfo'],
         Features: ['mdx'],
     },

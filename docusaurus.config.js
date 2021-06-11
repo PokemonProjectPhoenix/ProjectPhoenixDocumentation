@@ -67,6 +67,9 @@ module.exports = {
             ],
             copyright: `Copyright © ${new Date().getFullYear()} Project Phoenix. Built with Docusaurus.`,
         },
+        prism: {
+            additionalLanguages: ['csharp'],
+        },
     },
     presets: [
         [

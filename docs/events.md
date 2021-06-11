@@ -22,9 +22,9 @@ It's also **easily expandable** as more blocks can be added into it without affe
         + [Choice Block](blocktypes/choiceevents)
         + [Fade Block](blocktypes/fadeevents)
         + [Wait Block](blocktypes/waitevents)
-        + Teleport To Block
-        + Change Map Block
-        + Change Sprite Block
+        + [Teleport To Block](blocktypes/teleportevents)
+        + [Change Map Block](blocktypes/changemapevents)
+        + [Change Sprite Block](blocktypes/changespriteevents)
         + Condition Block
         + Give Item Block
         + Give Unimon Block
