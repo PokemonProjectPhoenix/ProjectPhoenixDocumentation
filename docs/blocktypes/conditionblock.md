@@ -6,7 +6,7 @@ sidebar_label: Condition Block
 
 The **Condition Block** allows us to execute a sequence of blocks if the set *Condition* is evaluated to true.
 
-<center><img src="/static/img/blocks/conditionblock.png" /></center>
+<center><img src="/img/blocks/conditionblock.png" /></center>
 <br />
 <table>
     <tr>

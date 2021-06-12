@@ -6,7 +6,7 @@ sidebar_label: Teleport To Block
 
 The **Teleport To Block** allows us to teleport a target *CharacterMovement* to a specified position in the current map.
 
-<center><img src="/static/img/blocks/teleportblock.png" /></center>
+<center><img src="/img/blocks/teleportblock.png" /></center>
 <br />
 <table>
     <tr>

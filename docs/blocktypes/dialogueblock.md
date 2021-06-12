@@ -6,7 +6,7 @@ sidebar_label: Dialogue Block
 
 The **Dialogue Block** allows us to display a text message and control its behaviour (how much should we wait after the text finished and if we should await input after that).
 
-<center><img src="/static/img/blocks/dialogueblock.png" /></center>
+<center><img src="/img/blocks/dialogueblock.png" /></center>
 
 <br />
 <table>

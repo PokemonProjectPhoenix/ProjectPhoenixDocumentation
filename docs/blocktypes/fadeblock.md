@@ -6,7 +6,7 @@ sidebar_label: Fade Block
 
 The **Fade Block** allows us to play a black fade transition on the screen.
 
-<center><img src="/static/img/blocks/fadeblock.png" /></center>
+<center><img src="/img/blocks/fadeblock.png" /></center>
 <br />
 <table>
     <tr>
