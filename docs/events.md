@@ -15,10 +15,10 @@ It's also **easily expandable** as more blocks can be added into it without affe
 ## Table of Contents
 
 + Events
-    + Event structure and design choices
-    + Trigger type and conditions
+    + [Event structure and design choices](Events/edesign)
+    + [Trigger types and conditions](Events/etypesandcond)
     + Adding/Removing Blocks
-    + Block types
+    + Block types (**RENEWING**)
         + [Dialogue Block](blocktypes/dialogueevents)
         + [Choice Block](blocktypes/choiceevents)
         + [Fade Block](blocktypes/fadeevents)
