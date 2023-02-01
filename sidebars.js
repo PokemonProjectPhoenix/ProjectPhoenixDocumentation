@@ -24,6 +24,11 @@ module.exports = {
             'conditions'
         ],
         Design: ['designInfo'],
+		"Input Handling": [{
+			type: 'doc',
+			id: 'Inputs/inputManager',
+			label: 'Input Manager',
+		}],
         Features: ['mdx'],
     },
 };
